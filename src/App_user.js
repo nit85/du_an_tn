@@ -15,7 +15,7 @@ import Product from './pages/product';
 import Contact from './pages/contact';
 import News from './pages/news';
 import Login from './pages/login';
-import Addtocart from './pages/addtocart'
+import Giohang from './pages/giohang'
 import React from 'react';
 function App_user()  {
   return (
@@ -29,7 +29,7 @@ function App_user()  {
         <Route path='/news' component={News} />
         <Route path='/index' component={Index} />
         <Route path='/login' component={Login} />
-        <Route path='/addtocart' component={Addtocart}/>
+        <Route path='/giohang' component={Giohang}/>
       </Switch>
     </Router>
   );
