@@ -40,18 +40,7 @@ margin-left: -79px;
 .bg-dark {
   background-image: var(--bs-gradient);
 }
-.footer-top2{
-  margin-top: -190px;
-  margin-left: 400px;
-}
-.footer-top3{
-  margin-top: -226px;
-  margin-left: 800px;
-}
-.footer-top4{
-  margin-top: -194px;
-  margin-left: 1100px;
-}
+
 .p-3{
   height: 400px;
 }
@@ -110,12 +99,7 @@ margin-top: 15px;
   margin-left: 100px;
   margin-top: 400px;
 }
-.footcontact{
-  margin-bottom: -1000px;
-  margin-left: -1350px;
-  background-color: #a6a6bb;
-  width: 1395px;
-}
+
 .sp1{
  
   margin-top: 30px;
@@ -150,5 +134,9 @@ margin-top: 15px;
 width: 600px;
 margin-left: 350px;
 margin-top: 20px;
+}
+.home{
+
+scale: initial;
 }
 
